@@ -1,0 +1,36 @@
+java Chatbot 100 0
+java Chatbot 100 1
+java Chatbot 100 2000
+java Chatbot 100 3001
+java Chatbot 100 4699
+java Chatbot 200 326 10000
+java Chatbot 200 327 10000
+java Chatbot 200 329 10000
+java Chatbot 200 5000 10000
+java Chatbot 200 99997 100000
+java Chatbot 300 414 2297
+java Chatbot 300 0 0
+java Chatbot 300 0 1
+java Chatbot 300 2110 4240
+java Chatbot 300 4247 0
+java Chatbot 400 0 100 414
+java Chatbot 400 1 100 414
+java Chatbot 400 98 100 414
+java Chatbot 400 81 100 4697
+java Chatbot 400 15 100 4442
+java Chatbot 500 23 12 123
+java Chatbot 500 5 660 3425
+java Chatbot 500 2799 556 2364
+java Chatbot 500 414 2297 2364
+java Chatbot 500 0 0 0
+java Chatbot 600 2 5 660 3425
+java Chatbot 600 2 5 3001 104
+java Chatbot 600 50 100 496 4517
+java Chatbot 600 33 100 2591 2473
+java Chatbot 600 0 100 2297 414
+java Chatbot 600 0 100 496 4517
+java Chatbot 700 0 0
+java Chatbot 700 1 0
+java Chatbot 700 0 1 414
+java Chatbot 700 3 2 2110 311
+java Chatbot 700 1 1 523
